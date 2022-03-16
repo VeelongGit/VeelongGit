@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Veelong ( @VeelongGit )
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning node.js and react
+- 💞️ I’m looking to collaborate on interesting and innovative web apps
