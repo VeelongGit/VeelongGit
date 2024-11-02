@@ -1,3 +1,1 @@
-Web3 enthusiast 🌐. 
-I enjoy developing web applications 🛠️ and diving into the world of decentralized technology 🔗. Passionate about token economy 💰 and empowering communities 🌱. 
-Let's connect and code together! 💻🚀
+👋 Hi there! I’m a developer driven by a mission to create impactful solutions for small businesses. With a passion for building tools that empower entrepreneurs, I’m focused on developing my dream project to make operations smoother, communication stronger, and growth easier for small teams.
